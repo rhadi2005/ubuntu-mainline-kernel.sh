@@ -1,0 +1,5 @@
+
+./ubuntu-mainline-kernel.sh -c
+./ubuntu-mainline-kernel.sh -i 6.3.7 -p ~/src --low-latency
+
+
